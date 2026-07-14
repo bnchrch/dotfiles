@@ -1,0 +1,6 @@
+[tools]
+bun = "latest"
+node = "lts"
+pnpm = "latest"
+vercel = "latest"
+wrangler = "latest"
