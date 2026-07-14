@@ -1,0 +1,5 @@
+.DS_Store
+.zcompdump*
+*.zwc
+.env
+.mise.local.toml
