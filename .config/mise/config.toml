@@ -2,5 +2,5 @@
 bun = "latest"
 node = "lts"
 pnpm = "latest"
-vercel = "latest"
+vercel = "56.2.0"
 wrangler = "latest"
